@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# 'install > "sass"/"Yarn"/"yarn add @material-ui/core"/"yarn add @material-ui/icons"
+
 In the project directory, you can run:
+
+### `yarn start`
 
 ### `npm start`
 
